@@ -1,8 +1,8 @@
 #### Hi 👋
 
-I am a PhD student in Cognitive Neuroscience at [Otto-von-Guericke-Universität Magdeburg](**https://www.ewi-psy.fu-berlin.de/studium/Psychologie/social_cognitive_affective_neuroscience_/Programme/index.html**).
+I am a PhD student in Computational Cognitive Neuroscience at [Otto-von-Guericke-Universität Magdeburg](**https://www.ewi-psy.fu-berlin.de/studium/Psychologie/social_cognitive_affective_neuroscience_/Programme/index.html**).
 
-I’m interested in decision making under uncertainty, learning, reproducibility and open science
+I’m interested in decision making under uncertainty, Bayesian learning, information seeking, reproducibility and open science
 
 
 <!---
